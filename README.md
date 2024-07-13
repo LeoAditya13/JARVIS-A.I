@@ -30,6 +30,6 @@ Enhanced AI Capabilities: Continuously improve conversational abilities by fine-
 Additional API Integrations: Expand functionality by integrating more APIs for broader service capabilities.
 User Interface Improvements: Enhance user experience with a more intuitive and responsive interface.
 
-#Feedback and Contributions
+# Feedback and Contributions
 Your feedback and contributions are welcome! If you have suggestions, encounter issues, or want to contribute to enhancing JARVIS AI Chatbot, please feel free to open an issue or submit a pull request.
 
